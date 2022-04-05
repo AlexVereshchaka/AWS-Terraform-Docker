@@ -15,7 +15,6 @@ The repo contains the next components:
 * Presentation
 
 ## Folders and Files
-- ./presentation - presentation of the project
 - ./app - app directory
 - ./config - configuration directory 
 - ./modules - Terraform modules
